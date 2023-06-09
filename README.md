@@ -1,70 +1,16 @@
-# Getting Started with Create React App
+# Getting Started Weather app
+LINK - https://weather-mohit.netlify.app/
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The Weather App is a user-friendly application designed to provide accurate and up-to-date weather information. With a clean and intuitive user interface, the app offers essential weather details, including "Feels Like" temperature, humidity, wind speed, and cloud coverage.
 
-## Available Scripts
+# Features:
+**1. Real-time Weather Data:** The app fetches real-time weather information from reliable sources to ensure accurate and timely updates.
+**2. Feels Like Temperature:** In addition to the actual temperature, the app also displays the "Feels Like" temperature, which takes into account . factors such as wind chill or heat index.
+**3.Humidity:** The app provides the current humidity level, enabling users to plan their activities accordingly.
+**4. Wind Speed:** Users can access information about the wind speed, allowing them to prepare for windy conditions or outdoor activities like sailing or kite flying.
+**5. Cloud Coverage:** The app displays the current cloud coverage, giving users insights into the overall weather conditions and potential cloud cover impact on visibility.
+**6. Good UI:** The app prioritizes a visually appealing and user-friendly interface, ensuring a smooth and enjoyable user experience.
+**7. Location-based Weather:** The app utilizes geolocation or user-inputted location to provide weather information specific to the user's location.
 
-In the project directory, you can run:
+<br> The Weather App is built using modern web technologies such as HTML, CSS, and JavaScript. It leverages APIs from trusted weather data providers to fetch and display the weather information. The app's design focuses on simplicity and readability, with an emphasis on presenting the data in a clear and concise manner.
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
