@@ -1,0 +1,27 @@
+{
+    "formId": "contact-me",
+    "sections": {
+        "beforeloop": {
+            "rows": [
+                "row11442"
+            ],
+            "tabname": "multipleentries",
+            "label": "Before Entry ListFields"
+        },
+        "loop": {
+            "rows": [
+                "row17372"
+            ],
+            "tabname": "multipleentries",
+            "label":"Entry
+List
+Fields"},"afterloop":{"rows":["row65921"],"tabname":"multipleentries","label":"After
+Entry List
+Fields"},"singleloop":{"rows":[],"tabname":"singleEntry","label":"Single Entry
+Fields"}},"rows":{"row17372":{"cols":["column33604"]},"row11442":{"cols":["column28611"]},"row65921":{"cols":["column3689"]}},"columns":{"column33604":{"title":"Column","fields":["field6870","field84350","field11299","field41008","field90422","field75486","field20406"],"size":"1"},"column28611":{"title":"Column","fields":["field64507"],"size":"1-1"},"column3689":{"title":"Column","fields":["field22385"],"size":"1-1"}},"fields":{"field64507":{"formFieldId":"pagination","label":"Pagination","fieldSettings":{"useCustomLabel":false,"label":"Pagination","customClass":""}},"field84350":{"formFieldId":"full_name","label":"full_name","fieldSettings":{"useCustomLabel":true,"label":"Full
+Nam","customClass":""}},"field11299":{"formFieldId":"email","label":"email","fieldSettings":{"useCustomLabel":true,"label":"Email","customClass":""}},"field41008":{"formFieldId":"phone","label":"phone","fieldSettings":{"useCustomLabel":true,"label":"Phone","customClass":""}},"field90422":{"formFieldId":"subject","label":"subject","fieldSettings":{"useCustomLabel":true,"label":"Subject
+","customClass":""}},"field75486":{"formFieldId":"message","label":"message","fieldSettings":{"useCustomLabel":true,"label":"Message","customClass":""}},"field20406":{"formFieldId":"file-resume","label":"file-resume","fieldSettings":{"useCustomLabel":true,"label":"Resume","customClass":""}},"field6870":{"formFieldId":"sequenceNumber","label":"Sequence
+Number","fieldSettings":{"useCustomLabel":false,"label":"Sequence
+Number","customClass":""}},"field22385":{"formFieldId":"paginationInfo","label":"Pagination
+Info","fieldSettings":{"useCustomLabel":false,"label":"Pagination
+Info","customClass":""}}},"activeTab":"multipleentries","viewSettings":{"multipleentries":{"perPage":"10"},"singleEntry":{},"filter":{},"sort":{"direction":"ASC"}},"viewType":"table"}
